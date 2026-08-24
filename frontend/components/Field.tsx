@@ -1,0 +1,1 @@
+export default function Field({label,...p}:React.InputHTMLAttributes<HTMLInputElement>&{label:string}){return <label className="block text-sm font-medium">{label}<input {...p} className="mt-1 w-full rounded-xl border border-slate-200 bg-white p-3"/></label>}
