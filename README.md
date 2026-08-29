@@ -1,5 +1,6 @@
 # SocialFlow — Advanced Social Media Command Center
 
+
 A polished full-stack social content management SaaS built with **Next.js 15 + TypeScript + Tailwind**, **FastAPI**, **SQLAlchemy**, **PostgreSQL**, and **JWT authentication**.
 
 ## What is improved
